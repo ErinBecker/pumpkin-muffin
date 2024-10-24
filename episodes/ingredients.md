@@ -12,6 +12,12 @@ Placeholder text
 
 Prompt for the learners to discuss.
 
+:::::: solution
+
+Some possible answers
+
+:::::::::::::::
+
 ::::::::::::::
 
 ::::::::: challenge
