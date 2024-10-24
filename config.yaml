@@ -67,6 +67,7 @@ contact: 'ebecker@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- ingredients.md
 
 # Information for Learners
 learners: 
